@@ -1,5 +1,4 @@
-// ConsoleApplication2.cpp: определяет точку входа для консольного приложения.
-//задача 7
+
 
 #include "stdafx.h"
 #include "iostream"
